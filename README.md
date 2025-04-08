@@ -1,17 +1,5 @@
 
-# cloudy-thing-7898
-<h3>Contributor</h3>
-<a href="https://github.com/prashant7650"> Prashant Kad</a>
-<br>
-<a href="https://github.com/Rajneesh0021">Rajneesh Yadav </a>
-<br>
-<a href="https://github.com/Teju255"> Tejas Pawar</a>
-<br>
-<a href="https://github.com/Saloni0282">Saloni Kumari</a>
-<br>
-<a href="https://github.com/KaushalDU"> Kaushal Pathak</a>
-<br>
-<br>
+
 
 
 <h2>detailed information about our project</h2>
